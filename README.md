@@ -1,7 +1,5 @@
 <h3 align="center">Work In Progress Plug-in</h3>
 
-[product-screenshot]
-
   <p align="center">
     A WordPress Plug-in that displays a banner at the top of a webpage that declares it to be a test site or a work in progress.
     <br />
@@ -68,16 +66,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
 See the [open issues](https://github.com/Kirk-Esterline/wordpress-work-in-progress-plug-in/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -114,20 +102,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Kirk Esterline - [@twitter_handle](https://twitter.com/KapnKricket) - kirk@esterenkodesign.com
 
 Project Link: [https://github.com/Kirk-Esterline/wordpress-work-in-progress-plug-in](https://github.com/Kirk-Esterline/wordpress-work-in-progress-plug-in)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
